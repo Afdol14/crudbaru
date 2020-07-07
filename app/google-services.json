@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396136823543",
+    "firebase_url": "https://crudbaru-e27b5.firebaseio.com",
+    "project_id": "crudbaru-e27b5",
+    "storage_bucket": "crudbaru-e27b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396136823543:android:eb0311777d51514a6cb1f2",
+        "android_client_info": {
+          "package_name": "com.example.crudbaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396136823543-11ddb1rcope8oeo5n8tkg7i46ppnakre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSZiSBvxC58zZ58La3_JcXNpzsSvxHjS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396136823543-11ddb1rcope8oeo5n8tkg7i46ppnakre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
